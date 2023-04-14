@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.a132b756.css",
-    "main.js": "/static/js/main.d5bf3303.js",
-    "static/media/linux.jpg": "/static/media/linux.a382bdcec5b27bafa67e.jpg",
-    "static/media/resume2.pdf": "/static/media/resume2.3967f7dadce34f7b27c5.pdf",
-    "static/media/irfan-removebg-preview.png": "/static/media/irfan-removebg-preview.df0c25fa709b25cb5e83.png",
-    "static/media/glassesimoji.png": "/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
-    "static/media/Alibaba-Cloud.png": "/static/media/Alibaba-Cloud.b715b0690f8ee09660eb.png",
-    "static/media/Pemogramman.jpg": "/static/media/Pemogramman.316fdcbe3c350d7fa4ec.jpg",
-    "static/media/Gumela Regular.otf": "/static/media/Gumela Regular.0ae83c6988a536716eb4.otf",
-    "static/media/aws 1.jpg": "/static/media/aws 1.2a37d78a09c9cf42cb7d.jpg",
-    "static/media/thumbup.png": "/static/media/thumbup.e06790ba656f0397cbe5.png",
-    "static/media/humble.png": "/static/media/humble.c8b32b53675e68978981.png",
-    "static/media/heartemoji.png": "/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
-    "static/media/wave.png": "/static/media/wave.fdfef4069ad90f610990.png",
-    "static/media/crown.png": "/static/media/crown.dbe416beae9b49b842ab.png",
-    "static/media/Vector2.png": "/static/media/Vector2.28db5bfd58081dd1df1b.png",
-    "static/media/glasses.png": "/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
-    "index.html": "/index.html",
-    "main.a132b756.css.map": "/static/css/main.a132b756.css.map",
-    "main.d5bf3303.js.map": "/static/js/main.d5bf3303.js.map"
+    "main.css": "/moch-irfan-tsani/static/css/main.cf52b6c2.css",
+    "main.js": "/moch-irfan-tsani/static/js/main.fad6e674.js",
+    "static/media/linux.jpg": "/moch-irfan-tsani/static/media/linux.a382bdcec5b27bafa67e.jpg",
+    "static/media/resume2.pdf": "/moch-irfan-tsani/static/media/resume2.3967f7dadce34f7b27c5.pdf",
+    "static/media/irfan-removebg-preview.png": "/moch-irfan-tsani/static/media/irfan-removebg-preview.df0c25fa709b25cb5e83.png",
+    "static/media/glassesimoji.png": "/moch-irfan-tsani/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/Alibaba-Cloud.png": "/moch-irfan-tsani/static/media/Alibaba-Cloud.b715b0690f8ee09660eb.png",
+    "static/media/Pemogramman.jpg": "/moch-irfan-tsani/static/media/Pemogramman.316fdcbe3c350d7fa4ec.jpg",
+    "static/media/Gumela Regular.otf": "/moch-irfan-tsani/static/media/Gumela Regular.0ae83c6988a536716eb4.otf",
+    "static/media/aws 1.jpg": "/moch-irfan-tsani/static/media/aws 1.2a37d78a09c9cf42cb7d.jpg",
+    "static/media/thumbup.png": "/moch-irfan-tsani/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/moch-irfan-tsani/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/moch-irfan-tsani/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/moch-irfan-tsani/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/moch-irfan-tsani/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/moch-irfan-tsani/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/moch-irfan-tsani/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/moch-irfan-tsani/index.html",
+    "main.cf52b6c2.css.map": "/moch-irfan-tsani/static/css/main.cf52b6c2.css.map",
+    "main.fad6e674.js.map": "/moch-irfan-tsani/static/js/main.fad6e674.js.map"
   },
   "entrypoints": [
-    "static/css/main.a132b756.css",
-    "static/js/main.d5bf3303.js"
+    "static/css/main.cf52b6c2.css",
+    "static/js/main.fad6e674.js"
   ]
 }
